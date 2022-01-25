@@ -3,8 +3,6 @@
                 <title>งานที่ 1</title>
         </head>
         <body bgcolor="lightblue">
-                page1ธรรมดา 
-                <hr>
-                <b>page1 หนา</b>
+                <p>ข้อความที่ 1</p>
         </body>
 </html>
