@@ -4,7 +4,7 @@
         </head>
         <body bgcolor="lightblue">
                 page1ธรรมดา 
-                <br>
+                <hr>
                 <b>page1 หนา</b>
         </body>
 </html>
