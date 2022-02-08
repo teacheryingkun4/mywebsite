@@ -5,9 +5,15 @@
   <body>
     <table border="1">
       <tr>
-        <th>คอลัมน์ที่ 1</th>
-        <td>คอลัมน์ที่ 2</td>
+        <th>ลำดับ</th>
+        <th>ชื่อ - นามสกุล</th>
+        <th>ชื่อเล่น</th>
       </tr>
+      <tr>
+        <td>1</td>
+        <td>ยิ่งคุณ รอดทิม</td>
+        <td>ขม</td>
+      </tr>  
     </table>
   </body> 
 </html>
