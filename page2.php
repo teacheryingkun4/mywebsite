@@ -1,10 +1,17 @@
 <html>
 	<head>
 		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
-		<link rel="stylesheet" href="style.css" type="text/css" />
+		<style>
+			#text1{
+				color:geen;
+			}
+			#text2{
+				color:yellow;
+			}
+		</style>
 	</head>
 	<body>
-		<h1> ข้อความนี้สีเขียว H1 </h1>
-		<h2> ข้อความนี้สีเขียว H2 </h2>
+		<h1 id="text1"> ข้อความนี้สีเขียว H1 </h1>
+		<h1 id="text2"> ข้อความนี้สีเหลือง H1 </h1>
 	</body>
 </html>
