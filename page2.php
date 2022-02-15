@@ -3,7 +3,7 @@
 		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
 		<style>
 			#text1{
-				color:geen;
+				color:green;
 			}
 			#text2{
 				color:yellow;
