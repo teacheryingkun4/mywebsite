@@ -13,6 +13,9 @@
 			.box{
 				background-color: green;
 			}
+			body{
+				background-color: grey;
+			}
 		</style>
 	</head>
 	<body>
