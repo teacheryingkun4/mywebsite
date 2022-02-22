@@ -8,13 +8,17 @@
       font-family: myFont1;
       src: url(SOV_sorm2496.woff)
     }
+    @font-face{
+      font-family: myFont2;
+      src: url(SOV_sorm2496.woff)
+    }
     #font1{
 	font-family: myFont1;    
-    }	  
+    }
   </style>
 </head>
 <body>
-  <h1>นายยิ่งคุณ รอดทิม ม.4/14 เลขที่ 1 เลขประจำตัว 88888</h1>
   <h1 id="font1">นายยิ่งคุณ รอดทิม ม.4/14 เลขที่ 1 เลขประจำตัว 88888</h1>
+  <h1 id="font2">นายยิ่งคุณ รอดทิม ม.4/14 เลขที่ 1 เลขประจำตัว 88888</h1>
 </body>
 </html>
